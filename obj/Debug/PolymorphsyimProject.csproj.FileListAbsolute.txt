@@ -1,0 +1,8 @@
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\bin\Debug\PolymorphsyimProject.exe.config
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\bin\Debug\PolymorphsyimProject.exe
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\bin\Debug\PolymorphsyimProject.pdb
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\obj\Debug\PolymorphsyimProject.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\obj\Debug\PolymorphsyimProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\obj\Debug\PolymorphsyimProject.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\obj\Debug\PolymorphsyimProject.exe
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimProject\obj\Debug\PolymorphsyimProject.pdb
